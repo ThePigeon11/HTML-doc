@@ -1,0 +1,7 @@
+<!DOCTYPE HTML>
+<HTML>
+<BODY>
+<h1> <strong> What colour is your bugatti? </strong> </h1>
+<input type="color" name="bugatti">
+</HTML> 
+</BODY>
